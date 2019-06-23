@@ -5,6 +5,7 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="operation.models.*" />
+          <option value="MxOnline.urls.*" />
         </list>
       </option>
     </inspection_tool>

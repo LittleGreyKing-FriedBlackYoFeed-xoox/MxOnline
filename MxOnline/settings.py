@@ -39,7 +39,9 @@ INSTALLED_APPS = [
     "users",
     "courses",
     "organization",
-    "operation"
+    "operation",
+    "extra_apps.xadmin",
+    "crispy_forms"
 ]
 # 设置用户模型类
 AUTH_USER_MODEL = "users.UserProfile"
